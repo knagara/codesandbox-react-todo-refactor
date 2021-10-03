@@ -1,2 +1,2 @@
-# codesandbox-react-todo-refactor
+# codesandbox-react-todo
 Created with CodeSandbox
